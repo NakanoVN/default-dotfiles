@@ -23,13 +23,7 @@
 
 #copy the fonts to ~/.local/share/fonts
 
-#this setup have autostart for some apps, so if you don't want it just comment or remove the line in i3 config (just search for "autostart workspaces")
-
 #To setup betterlockscreen wallpaper use "betterlockscreen -u ~/.config/wallpapers/dark-theme/katana.jpg" --fx blur,dim --blur 1 --dim 40"
-
-#Install the polybar theme from this repo "https://github.com/adi1090x/polybar-themes.git"
-
-#Install the rofi theme from this repo "https://github.com/adi1090x/rofi.git"
 
 #For rofi, if you want the image inside input bar to be full
 
